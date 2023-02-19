@@ -1,4 +1,4 @@
-# [Patika.Dev](https://www.patika.dev/tr) - SQL Eğitimi
+# [Patika.dev](https://www.patika.dev/tr) - SQL Eğitimi
 
 ## Ödev 1
 
