@@ -1,2 +1,2 @@
-# Patika.dev-SQL Egitimi
+# Patika.dev-SQL Eğitimi
  Patika.dev - SQL Eğitimi
