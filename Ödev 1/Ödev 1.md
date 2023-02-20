@@ -20,32 +20,32 @@ Kolay Gelsin.
 
 ### Cevap (1)
 
-```
+```sql
 SELECT title, description FROM film;
 ```
 
 ### Cevap (2)
-```
+```sql
 SELECT * FROM film WHERE length > 60 AND length < 75;
 ```
 
 ### Cevap (3)
-```
-SELECT * FROM film 
-WHERE rental_rate = 0.99 
+```sql
+SELECT * FROM film
+WHERE rental_rate = 0.99
 AND (replacement_cost = 12.99 OR replacement_cost = 28.99);
 ```
 
 ### Cevap (4)
-```
+```sql
 SELECT * FROM customer WHERE first_name = 'Mary';
 ```
 - Veri tabanında **customer** tablosunda **first_name** sütununda **1** adet **Mary** isimli müşteri vardır, ve bu müşterinin **last_name** sütunundaki değeri "**Smith**" olarak çıkmaktadır.
 
 
 ### Cevap (5)
-```
+```sql
 SELECT * FROM film
-WHERE NOT length > 50 
+WHERE NOT length > 50
 AND NOT (rental_rate = 2.99 OR rental_rate = 4.99);
 ```
