@@ -1,5 +1,5 @@
 # [Patika.dev](https://www.patika.dev/tr) - SQL Eğitimi
-## Ödev 3
+## Ödev 4
 ## Sorular
 
 Merhabalar,
