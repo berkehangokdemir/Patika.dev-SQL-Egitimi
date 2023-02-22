@@ -15,7 +15,7 @@ Kolay Gelsin.
 
 ### Cevap (1)
 
-- **İlk Aşama** : pgAdmin4 çalıştır --> Servers --> PostgreSQL 15 --> Databases --> Create --> Database --> Database ismi (test) --> Save
+- **İlk Aşama** : pgAdmin 4 çalıştır --> Servers --> PostgreSQL 15 --> Databases --> Create --> Database --> Database ismi (test) --> Save
 - **İkinci Aşama** : **test** veritabanı oluşturuldu.
 - **Üçüncü Aşama** : **test** veritabanının query tool'unu açarak işlem girmeye başlayabiliriz.
 
